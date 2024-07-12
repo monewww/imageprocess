@@ -1,0 +1,21 @@
+﻿  imageProcessing.cpp
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\imageProcessing.cpp(333,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\imageProcessing.cpp(418,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\imageProcessing.cpp(420,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\imageProcessing.cpp(460,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  imageProcessingDoc.cpp
+  imageProcessingView.cpp
+  MainFrm.cpp
+  _GlobalCommon.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\_GlobalCommon.cpp(408,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\_GlobalCommon.cpp(1103,12): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\_GlobalCommon.cpp(1168,54): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\_GlobalCommon.cpp(1175,54): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\_GlobalCommon.cpp(1183,54): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\_GlobalCommon.cpp(1191,54): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 382 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  imageProcessing.vcxproj -> C:\Users\c'y'k\Desktop\2024_图像处理实验\imageProcessing\Release\imageProcessing.exe
